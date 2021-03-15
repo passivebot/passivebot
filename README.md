@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Passivebot
 - 👀 I’m interested in web automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on an auto-crypto-faucet bot using 2Captcha API
+- 💞️ I’m looking to collaborate on a Microsoft Rewards bot
 - 📫 How to reach me: www.passivebot.com
 
 <!---
