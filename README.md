@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Passivebot
-- 👀 I’m interested in web automation
+- 👀 I’m interested in earning through web automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a Microsoft Rewards bot
+- 💞️ I’m looking to collaborate on a nueral network project
 - 📫 How to reach me: www.passivebot.com
 
 <!---
