@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Passivebot
 - 👀 I’m interested in earning through web automation
 - 🌱 I’m currently learning object-oriented programming
-- 💞️ I’m looking to collaborate on any Python or Typescript project
+- 💞️ I’m looking to collaborate on any Python or TypeScript project
 - 📫 How to reach me: www.passivebot.com
 
 <!---
