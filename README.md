@@ -1,4 +1,4 @@
-# Passivebot
+![Profile View Counter](https://komarev.com/ghpvc/?username=passivebot&color=red)
 
 👋 Hi, welcome to Passivebot's GitHub.
 
